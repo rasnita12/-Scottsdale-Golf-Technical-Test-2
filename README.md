@@ -1,6 +1,8 @@
-# vue-project
+# Scottsdale Golf Technical Test 2
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a static UI designed in Vue.js and Tailwind CSS.
+This design contains a single brand page where a user can view the brand's products and filter it accordingly.
+User can quick view the product in a seperate model where he/she can know more details of the product.
 
 ## Recommended IDE Setup
 
