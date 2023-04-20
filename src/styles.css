@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import '~v-tippy/dist/tippy.css'; */
+
+.defaultFont {
+  font-family: 'poppins';
+}
+body.open-modal {
+  overflow: hidden;
+}
+/* @media (min-width: 300px)
+{
+.container {
+    max-width: 586px;
+}
+} */
+
+
